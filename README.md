@@ -1,1 +1,1 @@
-##﻿# mental-health-tech-prediction
+##﻿# Mental-health-tech-prediction
